@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953756926455",
+    "project_id": "thithuandroid",
+    "storage_bucket": "thithuandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953756926455:android:0bbb77bb4d1b9c4a30eef2",
+        "android_client_info": {
+          "package_name": "com.example.levohuuthai_18045551_thiapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953756926455-t11qhstdpbb43maul0t68sg85adn47oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVwp1LNg13JXD8tGi7PcwOwyt1Xct3yC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953756926455-t11qhstdpbb43maul0t68sg85adn47oo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
